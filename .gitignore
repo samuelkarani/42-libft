@@ -1,0 +1,7 @@
+*.o
+*.a
+a.out
+*.sh
+.nfs*
+.vscode
+.DS_Store
